@@ -152,7 +152,7 @@ const LandingPage = (props) => {
           </span>
           <br className="landing-page-text28"></br>
           <span className="landing-page-text29">
-            Ardéchois coeur fidèle, je suis tombé amoureux de La Réunion en
+            Ardéchois coeur fidèle, je suis tombé fou amoureux de La Réunion en
             2001.
           </span>
           <br className="landing-page-text30"></br>
