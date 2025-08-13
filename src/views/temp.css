@@ -1,0 +1,30 @@
+.temp-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/dscf0988-1500w.jpg");
+}
+ 
+.temp-sibou-voyages {
+  font-size: 150px;
+  align-self: center;
+  font-style: normal;
+  font-weight: 800;
+  padding-bottom: 0px;
+}
+ 
+.temp-container2 {
+  width: 1510px;
+  height: 296px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.temp-text3 {
+  font-size: 80px;
+  text-align: center;
+}
