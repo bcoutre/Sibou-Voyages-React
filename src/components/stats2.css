@@ -73,9 +73,3 @@
     margin-left: 0px;
   }
 }
- 
-@media(max-width: 479px) {
-  .stats2-image {
-    width: 100%;
-  }
-}

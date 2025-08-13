@@ -8,8 +8,8 @@ const TEMP = (props) => {
   return (
     <div className="temp-container1">
       <Helmet>
-        <title>TEMP - Sibou Voyages</title>
-        <meta property="og:title" content="TEMP - Sibou Voyages" />
+        <title>Sibou Voyages</title>
+        <meta property="og:title" content="Sibou Voyages" />
       </Helmet>
       <span className="temp-sibou-voyages">
         <span>Sibou Voyages</span>
